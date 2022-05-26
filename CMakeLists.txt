@@ -6,6 +6,7 @@ project(c-training)
 add_subdirectory(A)
 add_subdirectory(B)
 add_subdirectory(lc)
+add_subdirectory(tars)
 
 add_executable(main main.c)
 add_executable(udp udp.c)
